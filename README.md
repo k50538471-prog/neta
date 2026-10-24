@@ -18,7 +18,7 @@
 - Haskell
 - OCaml
 - SQL
-- WebAssembly（Wasm）
+- WebAssembly（Wasm）[やった](https://qiita.com/k50538471/items/1cbe44815cbae5245296)
 
 # シェル・コマンドライン
 - Bash
